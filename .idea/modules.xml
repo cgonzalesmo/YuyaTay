@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Take_Your_Pill.iml" filepath="$PROJECT_DIR$/.idea/modules/Take_Your_Pill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Take_Your_Pill.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Take_Your_Pill.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Take_Your_Pill.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Take_Your_Pill.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Take_Your_Pill.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Take_Your_Pill.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Take_Your_Pill.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Take_Your_Pill.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagepicker/Take_Your_Pill.imagepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/imagepicker/Take_Your_Pill.imagepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagepicker/Take_Your_Pill.imagepicker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagepicker/Take_Your_Pill.imagepicker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagepicker/Take_Your_Pill.imagepicker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/imagepicker/Take_Your_Pill.imagepicker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagepicker/Take_Your_Pill.imagepicker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagepicker/Take_Your_Pill.imagepicker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ucrop/Take_Your_Pill.ucrop.iml" filepath="$PROJECT_DIR$/.idea/modules/ucrop/Take_Your_Pill.ucrop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ucrop/Take_Your_Pill.ucrop.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ucrop/Take_Your_Pill.ucrop.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ucrop/Take_Your_Pill.ucrop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ucrop/Take_Your_Pill.ucrop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ucrop/Take_Your_Pill.ucrop.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ucrop/Take_Your_Pill.ucrop.unitTest.iml" />
+    </modules>
+  </component>
+</project>

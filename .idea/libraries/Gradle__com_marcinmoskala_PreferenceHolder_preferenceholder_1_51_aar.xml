@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.marcinmoskala.PreferenceHolder:preferenceholder:1.51@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/68f2235bf052753935e08d33497ea0fa/transformed/jetified-preferenceholder-1.51/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/68f2235bf052753935e08d33497ea0fa/transformed/jetified-preferenceholder-1.51/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/68f2235bf052753935e08d33497ea0fa/transformed/jetified-preferenceholder-1.51/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marcinmoskala.PreferenceHolder/preferenceholder/1.51/b00b09f746a6f53cfe2652fec79bac4b198cd86f/preferenceholder-1.51-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
