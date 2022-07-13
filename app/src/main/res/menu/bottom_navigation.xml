@@ -11,6 +11,11 @@
         android:icon="@drawable/anim_history"
         android:title="@string/history" />
     <item
+        android:id="@+id/list"
+        android:enabled="true"
+        android:icon="@drawable/anim_list"
+        android:title="@string/list" />
+    <item
         android:id="@+id/settings"
         android:enabled="true"
         android:icon="@drawable/anim_settings"
