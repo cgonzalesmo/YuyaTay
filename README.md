@@ -1,15 +1,7 @@
-# Take your Pill
+# YuyaTa
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Latest release](https://img.shields.io/github/v/release/vojta-horanek/take-your-pill.svg)](https://github.com/vojta-horanek/take-your-pill/releases/latest)
 
-An app that reminds you to take your pills. Developed as my long-term graduation work.
-
-## Features
-- remind to take your pill at a specific time, multiple reminders supported
-- remind again if user did not confirm taking the pill
-- remind only for specific number of days
-- remind in cycles
-- view history of pill taking
 
 ## License
 
