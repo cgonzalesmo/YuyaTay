@@ -9,11 +9,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80c7fe30-cb03-49b2-814d-c69f5ce95651" name="Changes" comment="Spanish version v.1 and Update list">
+    <list default="true" id="80c7fe30-cb03-49b2-814d-c69f5ce95651" name="Changes" comment="Update preferences">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/eu/vojtechh/takeyourpill/viewmodel/PreferencesViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/eu/vojtechh/takeyourpill/viewmodel/PreferencesViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/eu/vojtechh/takeyourpill/fragment/PreferencesFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/eu/vojtechh/takeyourpill/fragment/PreferencesFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/preferences.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/preferences.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657747402217</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update preferences">
+      <created>1657767237299</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657767237299</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +183,7 @@
     <MESSAGE value="Spanish version" />
     <MESSAGE value="Spanish version v.1" />
     <MESSAGE value="Spanish version v.1 and Update list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spanish version v.1 and Update list" />
+    <MESSAGE value="Update preferences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update preferences" />
   </component>
 </project>

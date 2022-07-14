@@ -55,12 +55,6 @@ class PreferencesFragment : PreferenceFragmentCompat() {
             true
         }
 
-        findPreference<Preference>("showAbout")?.setOnPreferenceClickListener {
-            val intent = Intent(requireActivity(), AboutActivity::class.java)
-            startActivity(intent)
-            true
-        }
-
         // Uncomment after dlouhodobka
         // findPreference<Preference>("addTestData")?.isVisible = BuildConfig.DEBUG
 

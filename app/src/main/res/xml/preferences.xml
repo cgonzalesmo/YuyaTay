@@ -52,11 +52,6 @@ This means that if we cancelled all of the scheduled CheckReceivers we would als
             app:summary="@string/set_app_theme"
             app:title="@string/app_theme" />
         <Preference
-            app:icon="@drawable/ic_info"
-            app:key="showAbout"
-            app:summary="@string/settings_about_application_summary"
-            app:title="@string/settings_about_application" />
-        <Preference
             app:icon="@drawable/ic_pill"
             app:key="addTestData"
             app:title="@string/add_test_data" />
