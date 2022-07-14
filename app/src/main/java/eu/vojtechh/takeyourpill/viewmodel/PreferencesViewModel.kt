@@ -47,6 +47,7 @@ class PreferencesViewModel @Inject constructor(
                     Reminder.create(pillId = -1),
                     Reminder.create(hour = 12, pillId = -1),
                     Reminder.create(hour = 22, pillId = -1),
+                        
                 )
             ),
             Pill(
