@@ -21,8 +21,8 @@ class PreferencesViewModel @Inject constructor(
         val pills = listOf(
             Pill(
                 PillEntity(
-                    name = "Xyzal",
-                    description = "Na alergii, ve skříni",
+                    name = "Amoxixilina",
+                    description = "Axxxxxxxxxxxxxxxxxxxxxxxxx",
                     photo = null,
                     color = PillColor.default(),
                     deleted = false,
@@ -36,8 +36,8 @@ class PreferencesViewModel @Inject constructor(
             ),
             Pill(
                 PillEntity(
-                    name = "Nasivin",
-                    description = "Na rýmu, na poličce",
+                    name = "Penisilina",
+                    description = "Axxxxxxxxxxxxxxxxxxxxxxxx",
                     photo = null,
                     color = PillColor.teal(),
                     deleted = false,
