@@ -9,12 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80c7fe30-cb03-49b2-814d-c69f5ce95651" name="Changes" comment="Update preferences">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/eu/vojtechh/takeyourpill/fragment/PreferencesFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/eu/vojtechh/takeyourpill/fragment/PreferencesFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/preferences.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/preferences.xml" afterDir="false" />
-    </list>
+    <list default="true" id="80c7fe30-cb03-49b2-814d-c69f5ce95651" name="Changes" comment="Update project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657767237299</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update project">
+      <created>1657770837725</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657770837725</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +186,7 @@
     <MESSAGE value="Spanish version v.1" />
     <MESSAGE value="Spanish version v.1 and Update list" />
     <MESSAGE value="Update preferences" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update preferences" />
+    <MESSAGE value="Update project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update project" />
   </component>
 </project>
