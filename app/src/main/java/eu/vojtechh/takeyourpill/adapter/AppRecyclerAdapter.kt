@@ -70,6 +70,7 @@ class AppRecyclerAdapter(
                 ItemChartBinding.inflate(layoutInflater, parent, false),
             )
             else -> throw RuntimeException("Unknown ViewHolder")
+            
         }
     }
 
